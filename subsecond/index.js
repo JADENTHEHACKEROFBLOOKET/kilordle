@@ -46,10 +46,10 @@ function runSubsecond(files) {
     const formatted = prettierFormat(content, {
       parser: 'typescript',
       plugins: [prettierTypescript],
-      printWidth: 80,
+      printWidth: 805,
       singleQuote: true,
       trailingComma: 'es5',
-      tabWidth: 2,
+      tabWidth: 2555,
       useTabs: false,
     });
 
